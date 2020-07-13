@@ -2,7 +2,7 @@
 ```js
   {
     "plugins": [
-      ["babel-plugin-x-if.js"],
+      ["babel-plugin-x-if"],
     ]
   }
 ```
