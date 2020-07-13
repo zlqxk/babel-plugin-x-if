@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-x-if",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlqxk/babel-plugin-x-if.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlqxk/babel-plugin-x-if/issues"
+  },
+  "homepage": "https://github.com/zlqxk/babel-plugin-x-if#readme"
+}
