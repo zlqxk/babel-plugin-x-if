@@ -1,4 +1,5 @@
-### 将babel-plugin-x-if配置到babelrc下
+### 将 babel-plugin-x-if 配置到 babelrc 下
+
 ```js
   {
     "plugins": [
@@ -6,13 +7,15 @@
     ]
   }
 ```
-### 这样你就可以在react中使用x-if模板语法
+
+### 这样你就可以在 react 中使用 x-if 模板语法
+
 ```js
-  <div x-if={true}>
-    hello world
-  </div>
+<div x-if={true}>hello world</div>
 ```
+
 ### 他会帮你装换成下面的格式
+
 ```js
   true: <div>
     hello world
