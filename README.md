@@ -21,3 +21,7 @@
     hello world
   </div>? null
 ```
+
+## TDDO
+
+1、自动忽略 ts 报错
